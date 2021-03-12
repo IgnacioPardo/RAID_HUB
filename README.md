@@ -4,4 +4,5 @@ RAID centralization **HUB** for [NODES](https://github.com/IgnacioPardo/RAID_NOD
 
 *TO-DO*
 **Super HUBs**
-  * Make hubs act like nodes for higher hierarchy hubs when **HUB** runs out of space for relational connections to its **NODES**
+  * Make hubs act like nodes for higher hierarchy hubs when **HUB** runs out of space for relational connections to its **NODES**.
+  * Automatic **NODE** deployment when no nodes available.
